@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*_report.txt
+*_backup.py
